@@ -9,3 +9,5 @@ Requerimientos:
 - 3 resistencias de 10 kohm  
 - 3 transistores 2N2222A  
 - 2 protoboard  
+
+Sketch: https://www.tinkercad.com/things/00kEsJWfYTc-funky-kup/editel?sharecode=uhpk7Fg1wopNbBx8SOBcNdQvvM27X9o572D43Cfaffo
